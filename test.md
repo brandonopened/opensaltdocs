@@ -6,13 +6,13 @@
 | `git diff` | Show file differences that **haven't been** staged |
 
 | **Title: Charter for Competencies and Academic Standards Exchange Workgroup**|
-| --------------------------------- | --------------------------------- |
+| -- | -- |
 | **Authors: **                     |                                   |
 |                                   |                                   |
 | **Joshua Marks (PCG)**            |                                   |
 |                                   |                                   |
 | **Brandon Dorman (ACT)**          |                                   |
-| --------------------------------- | --------------------------------- |
+| -- | -- |
 | **Version: 1.1**                  |                                   |
 | --------------------------------- | --------------------------------- |
 | **Version date: 07/02/2018**      |                                   |
