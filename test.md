@@ -5,7 +5,7 @@
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
-| **Title: Charter for Competencies and Academic Standards Exchange Workgroup**|
+| **Title: Charter for Competencies and Academic Standards Exchange Workgroup**| |
 | -- | -- |
 | **Authors: **                     |                                   |
 |                                   |                                   |
