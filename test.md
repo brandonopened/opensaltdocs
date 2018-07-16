@@ -18,7 +18,7 @@
 | **Version date: 07/02/2018**      |                                   |
 |  |  |
 | **Status: Draft**                 |                                   |
-|  |  |
+|  | --  |
 | **Purpose: Define scope,          |                                   |
 | timeline, tasks, deliverable and  |                                   |
 | success criteria for the proposed |                                   |
